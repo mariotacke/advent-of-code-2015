@@ -28,7 +28,7 @@ describe('Day 1: Not Quite Lisp', () => {
     assert.equal(-3, notQuiteLisp(')())())'));
   });
   
-  describe('Part 2', () => {
+  describe('Part Two', () => {
     it('should properly calculate )', () => {
       assert.equal(1, notQuiteLisp2(')'));
     });

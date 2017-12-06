@@ -1,12 +1,12 @@
 {
-  "name": "day-01-not-quite-lisp",
+  "name": "advent-of-code-2015",
   "version": "1.0.0",
-  "description": "Day 1: Not Quite Lisp",
+  "description": "Advent of Code 2015",
   "main": "index.js",
   "author": "Mario Tacke <tacke.mario@gmail.com>",
   "license": "ISC",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha day-*/**/test.js"
   },
   "devDependencies": {
     "mocha": "^4.0.1"
