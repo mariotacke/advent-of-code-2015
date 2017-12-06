@@ -7,6 +7,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 ## Days
 
 - [Day 1: Not Quite Lisp](day-01-not-quite-lisp/)
+- [Day 2: I Was Told There Would Be No Math](day-02-i-was-told-there-would-be-no-math/)
 
 ## Running Tests
 
