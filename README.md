@@ -11,7 +11,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 
 ## Running Tests
 
-Each day contains its own set of tests. To run them type `npm test`. 
+Each day contains its own set of tests. To run them type `npm test`.
 
 ## Visit
 - http://adventofcode.com
