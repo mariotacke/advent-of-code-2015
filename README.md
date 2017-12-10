@@ -9,6 +9,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 1: Not Quite Lisp](day-01-not-quite-lisp/)
 - [Day 2: I Was Told There Would Be No Math](day-02-i-was-told-there-would-be-no-math/)
 - [Day 3: Perfectly Spherical Houses in a Vacuum](day-03-perfectly-spherical-houses-in-a-vacuum/)
+- [Day 4: The Ideal Stocking Stuffer](day-04-the-ideal-stocking-stuffer/)
 
 ## Running Tests
 
