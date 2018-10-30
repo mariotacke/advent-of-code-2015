@@ -10,6 +10,8 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 2: I Was Told There Would Be No Math](day-02-i-was-told-there-would-be-no-math/)
 - [Day 3: Perfectly Spherical Houses in a Vacuum](day-03-perfectly-spherical-houses-in-a-vacuum/)
 - [Day 4: The Ideal Stocking Stuffer](day-04-the-ideal-stocking-stuffer/)
+- [Day 5: Doesn't He Have Intern-Elves For This?](day-05-doesnt-he-have-intern-elves-for-this/)
+- [Day 6: Probably a Fire Hazard](day-06-probably-a-fire-hazard/)
 
 ## Running Tests
 
