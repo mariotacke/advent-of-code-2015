@@ -13,6 +13,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 5: Doesn't He Have Intern-Elves For This?](day-05-doesnt-he-have-intern-elves-for-this/)
 - [Day 6: Probably a Fire Hazard](day-06-probably-a-fire-hazard/)
 - [Day 7: Some Assembly Required](day-07-some-assembly-required/)
+- [Day 8: Matchsticks](day-08-matchsticks/)
 
 ## Running Tests
 
