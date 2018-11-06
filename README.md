@@ -14,6 +14,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 6: Probably a Fire Hazard](day-06-probably-a-fire-hazard/)
 - [Day 7: Some Assembly Required](day-07-some-assembly-required/)
 - [Day 8: Matchsticks](day-08-matchsticks/)
+- [Day 9: All in a Single Night](day-09-all-in-a-single-night/)
 
 ## Running Tests
 
