@@ -66,13 +66,13 @@ const skip = (password) => {
 const passwordGenerator = (password) => {
   let nextPassword = password;
 
-  while (!isValidPassword(nextPassword)) {
+  do {
     if (hasForbiddenCharacters(nextPassword)) {
       nextPassword = skip(nextPassword);
     }
 
     nextPassword = incrementPassword(nextPassword);
-  }
+  } while (!isValidPassword(nextPassword));
 
   return nextPassword;
 };
