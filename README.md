@@ -16,6 +16,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 8: Matchsticks](day-08-matchsticks/)
 - [Day 9: All in a Single Night](day-09-all-in-a-single-night/)
 - [Day 10: Elves Look, Elves Say](day-10-elves-look-elves-say/)
+- [Day 11: Corporate Policy](day-11-corporate-policy/)
 
 ## Running Tests
 
