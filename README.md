@@ -19,6 +19,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 11: Corporate Policy](day-11-corporate-policy/)
 - [Day 12: JSAbacusFramework.io](day-12-js-abacus-framework-io/)
 - [Day 13: Knights of the Dinner Table](day-13-knights-of-the-dinner-table/)
+- [Day 14: Reindeer Olympics](day-14-reindeer-olympics/)
 
 ## Running Tests
 
