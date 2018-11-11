@@ -21,6 +21,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 13: Knights of the Dinner Table](day-13-knights-of-the-dinner-table/)
 - [Day 14: Reindeer Olympics](day-14-reindeer-olympics/)
 - [Day 15: Science for Hungry People](day-15-science-for-hungry-people/)
+- [Day 16: Aunt Sue](day-16-aunt-sue/)
 
 ## Running Tests
 
