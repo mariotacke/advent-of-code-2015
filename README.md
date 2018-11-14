@@ -23,6 +23,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 15: Science for Hungry People](day-15-science-for-hungry-people/)
 - [Day 16: Aunt Sue](day-16-aunt-sue/)
 - [Day 17: No Such Thing as Too Much](day-17-not-such-thing-as-too-much/)
+- [Day 18: Like a GIF For Your Yard](day-18-like-a-gif-for-your-yard/)
 
 ## Running Tests
 
