@@ -22,6 +22,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 14: Reindeer Olympics](day-14-reindeer-olympics/)
 - [Day 15: Science for Hungry People](day-15-science-for-hungry-people/)
 - [Day 16: Aunt Sue](day-16-aunt-sue/)
+- [Day 17: No Such Thing as Too Much](day-17-not-such-thing-as-too-much/)
 
 ## Running Tests
 
