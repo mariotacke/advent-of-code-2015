@@ -4,7 +4,7 @@ const getCombinations = (volume, containers) => {
   const combine = (array, carry = []) => {
     for (let i = 0; i < array.length; i++) {
       const root = array[i];
-      const nodes = [...array.slice(i, i), ...array.slice(i + 1)]
+      const nodes = [...array.slice(i, i), ...array.slice(i + 1)];
       const nextCarry = [...carry, root];
 
       if (nextCarry.reduce((a, b) => a + b, 0) === volume) {
