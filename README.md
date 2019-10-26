@@ -27,6 +27,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 18: Like a GIF For Your Yard](day-18-like-a-gif-for-your-yard/)
 - [Day 19: Medicine for Rudolph](day-19-medicine-for-rudolph/)
 - [Day 20: Infinite Elves and Infinite Houses](day-20-infinite-elves-and-infinite-houses/)
+- [Day 21: RPG Simulator 20XX](day-21-rpg-simulator-20xx/)
 
 ## Running Tests
 
