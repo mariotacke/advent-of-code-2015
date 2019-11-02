@@ -20,10 +20,11 @@ const getFactors = (houseNumber) => {
 const getPresents = (houseNumber) => {
   let presents = 0;
 
-  const factors = getFactors(houseNumber);
+  const factors = getFactors(houseNumber)
+    .filter((factor) => factor * 50 >= houseNumber);
 
   for (let i = 0; i < factors.length; i++) {
-    presents += factors[i] * 10;
+    presents +=  factors[i] * 11;
   }
 
   return presents;
