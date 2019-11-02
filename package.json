@@ -3,15 +3,19 @@
   "version": "1.0.0",
   "description": "Advent of Code 2015",
   "main": "index.js",
-  "author": "Mario Tacke <tacke.mario@gmail.com>",
+  "author": "Mario Tacke <tacke.mario@gmail.com> (https://www.mariotacke.io)",
   "license": "MIT",
   "scripts": {
     "test": "mocha day-*/**/test.js",
     "lint": "eslint ."
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariotacke/advent-of-code-2015.git"
+  },
   "devDependencies": {
-    "eslint": "^4.13.0",
-    "mocha": "^4.0.1"
+    "eslint": "^6.6.0",
+    "mocha": "^6.2.2"
   },
   "dependencies": {
     "md5": "^2.2.1"

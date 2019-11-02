@@ -1,5 +1,7 @@
 # Advent of Code 2015 - My Solutions
-[![Build Status](https://travis-ci.org/mariotacke/advent-of-code-2015.svg?branch=master)](https://travis-ci.org/mariotacke/advent-of-code-2015) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mariotacke/advent-of-code-2015/master/LICENSE)
+[![Build Status](https://github.com/mariotacke/advent-of-code-2015/workflows/build/badge.svg)](https://github.com/mariotacke/advent-of-code-2015/actions)
+[![Dependency Status](https://img.shields.io/david/mariotacke/advent-of-code-2015.svg)](https://david-dm.org/mariotacke/advent-of-code-2015)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mariotacke/advent-of-code-2015/master/LICENSE)
 
 Santa was hoping for a white Christmas, but his weather machine's "snow" function is powered by stars, and he's fresh out! To save Christmas, he needs you to collect fifty stars by December 25th.
 
