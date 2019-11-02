@@ -1,15 +1,31 @@
-const getElves = (houseNumber) => {
-  const elves = [];
+const getFactors = (houseNumber) => {
+  const factors = [];
 
-  for (let i = 1; i <= Math.floor(houseNumber / 2); i++) {
-    if (houseNumber % i === 0) {
-      elves.push(i);
+  let i = 1;
+  let end = houseNumber;
+
+  while (i <= end) {
+    if (i * end === houseNumber) {
+      factors.push(i, end);
     }
+
+    i++;
+    end = Math.floor(houseNumber / i);
   }
 
-  elves.push(houseNumber);
+  return factors;
+};
 
-  return elves.reduce((a, b) => a + b, 0);
+const getPresents = (houseNumber) => {
+  let presents = 0;
+
+  const factors = getFactors(houseNumber);
+
+  for (let i = 0; i < factors.length; i++) {
+    presents += houseNumber / factors[i];
+  }
+
+  return presents * 10;
 };
 
 const infinite = (presentsThreshold) => {
@@ -17,7 +33,7 @@ const infinite = (presentsThreshold) => {
 
   // eslint-disable-next-line no-constant-condition
   while (true) {
-    const presents = getElves(houseNumber) * 10;
+    const presents = getPresents(houseNumber);
 
     if (presents >= presentsThreshold) {
       break;
