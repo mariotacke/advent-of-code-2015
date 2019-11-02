@@ -16,8 +16,5 @@
   "devDependencies": {
     "eslint": "^6.6.0",
     "mocha": "^6.2.2"
-  },
-  "dependencies": {
-    "md5": "^2.2.1"
   }
 }

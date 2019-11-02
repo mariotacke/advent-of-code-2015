@@ -6,11 +6,11 @@ const stockingStuffer = require('./stocking-stuffer');
 describe('Day 4: The Ideal Stocking Stuffer', function () {
   this.timeout(10000);
 
-  it.skip('should properly calculate abcdef', () => {
+  it('should properly calculate abcdef', () => {
     assert.equal(stockingStuffer('abcdef'), 609043);
   });
 
-  it.skip('should properly calculate pqrstuv', () => {
+  it('should properly calculate pqrstuv', () => {
     assert.equal(stockingStuffer('pqrstuv'), 1048970);
   });
 });
