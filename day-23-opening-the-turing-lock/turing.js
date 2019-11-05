@@ -1,4 +1,4 @@
-module.exports = (input) => {
+module.exports = (input, initialValueForRegisterA = 0) => {
   const instructions = input
     .split('\n')
     .map((line) => {
@@ -26,7 +26,7 @@ module.exports = (input) => {
     });
 
   const registers = {
-    a: 0,
+    a: initialValueForRegisterA,
     b: 0,
   };
 
