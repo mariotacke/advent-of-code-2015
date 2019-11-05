@@ -31,6 +31,7 @@ Collect stars by helping Santa solve puzzles. Two puzzles will be made available
 - [Day 20: Infinite Elves and Infinite Houses](day-20-infinite-elves-and-infinite-houses/)
 - [Day 21: RPG Simulator 20XX](day-21-rpg-simulator-20xx/)
 - [Day 22: Wizard Simulator 20XX](day-22-wizard-simulator-20xx/)
+- [Day 23: Opening the Turing Lock](day-23-opening-the-turing-lock/)
 
 ## Running Tests
 
